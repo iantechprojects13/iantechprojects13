@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ian Albano</h1>
+<h1 align="center">Hi 👋, I am Ian Albano</h1>
 <h3 align="center">A simple full-stack developer from Philippines</h3>
 
 - 🌱 I’m currently learning **Laravel**
