@@ -1,11 +1,11 @@
-# Hi there, I'm Ian Albano! 👋
+# Hi there, I'm Ian Albano!
 
-### 🚀 Full-Stack Developer | BSIT Student @ University of Mindanao
+### Full-Stack Developer | BSIT Student @ University of Mindanao
 Currently specializing in building enterprise-level government solutions and high-performance web applications. I recently completed a featured internship as a **Programmer/Web Developer** at the **CHED Regional Office XI**, where I focused on scaling regional monitoring systems.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 **Frontend Development**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -24,7 +24,7 @@ Currently specializing in building enterprise-level government solutions and hig
 
 ---
 
-### 🌟 Featured Project: ProgMES
+### Featured Project: ProgMES
 **Program Monitoring & Evaluation System**
 Developed for CHED XI to transition academic data collection into live production logic.
 * **Role:** Lead Developer (Intern)
@@ -33,15 +33,15 @@ Developed for CHED XI to transition academic data collection into live productio
 
 ---
 
-### 🏆 Recognitions
+### Recognitions
 * **Plaque of Recognition:** Awarded for the successful delivery and implementation of the ProgMES system at CHED Regional Office XI.
 
 ---
 
-### 📫 Connect with Me
+### Connect with Me
 I'm always open to collaborating on innovative projects or discussing new web technologies!
 
-* 📧 **Email:** [ianalbano.dev@gmail.com](mailto:ianalbano.dev@gmail.com)
-* 💼 **LinkedIn:** [Ian Albano](https://www.linkedin.com/in/ian-albano-b8244239b)
-* 🔵 **Facebook:** [Ian Albano](https://www.facebook.com/ian.albano13/)
-* 📞 **Contact:** +63 945 400 5661
+*  **Email:** [ianalbano.dev@gmail.com](mailto:ianalbano.dev@gmail.com)
+*  **LinkedIn:** [Ian Albano](https://www.linkedin.com/in/ian-albano-b8244239b)
+*  **Facebook:** [Ian Albano](https://www.facebook.com/ian.albano13/)
+*  **Contact:** +63 945 400 5661
