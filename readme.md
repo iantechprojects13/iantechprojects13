@@ -1,56 +1,47 @@
-<h1 align="center">Hi 👋, I'm Ian Albano</h1>
-<p align="center">
-  <strong>Full-Stack Developer | PHP & JavaScript Enthusiast</strong><br>
-  📍 Based in the Philippines
-</p>
+# Hi there, I'm Ian Albano! 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Ian Albano" />
-</p>
+### 🚀 Full-Stack Developer | BSIT Student @ University of Mindanao
+Currently specializing in building enterprise-level government solutions and high-performance web applications. I recently completed a featured internship as a **Programmer/Web Developer** at the **CHED Regional Office XI**, where I focused on scaling regional monitoring systems.
 
 ---
 
-### 🚀 About Me
-I am a passionate Full-Stack Developer dedicated to building clean, functional, and user-centric web applications. Currently, I am deep-diving into the **Laravel** ecosystem to complement my frontend skills.
+### 🛠️ Tech Stack & Tools
 
-- 🔭 **Working on:** Refining my Full-Stack workflow with Vue and Laravel.
-- 🌱 **Learning:** Advanced Laravel patterns and TDD (Test Driven Development).
-- 💬 **Ask me about:** Vue.js components, Laravel routing, and UI design with Tailwind CSS.
-- 📫 **Reach me at:** [ian.epidemia13@gmail.com](mailto:ian.epidemia13@gmail.com)
-
----
-
-### 🛠️ Languages and Tools
-
-**Frontend & Mobile**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-</p>
+**Frontend Development**
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 **Backend & Database**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-</p>
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-**Others**
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-</p>
+**Design & Workflow**
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+### 🌟 Featured Project: ProgMES
+**Program Monitoring & Evaluation System**
+Developed for CHED XI to transition academic data collection into live production logic.
+* **Role:** Lead Developer (Intern)
+* **Stack:** Laravel + Vue.js + Tailwind CSS
+* **Impact:** Enhanced regional monitoring with zero downtime and improved security protocols.
+
+---
+
+### 🏆 Recognitions
+* **Plaque of Recognition:** Awarded for the successful delivery and implementation of the ProgMES system at CHED Regional Office XI.
+
+---
+
+### 📫 Connect with Me
+I'm always open to collaborating on innovative projects or discussing new web technologies!
+
+* 📧 **Email:** [ianalbano.dev@gmail.com](mailto:ianalbano.dev@gmail.com)
+* 💼 **LinkedIn:** [Ian Albano](https://www.linkedin.com/in/ian-albano-b8244239b)
+* 🔵 **Facebook:** [Ian Albano](https://www.facebook.com/ian.albano13/)
+* 📞 **Contact:** +63 945 400 5661
